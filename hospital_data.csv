@@ -1,0 +1,101 @@
+patient_id,name,age,gender,diagnosis,treatment,admission_date,discharge_date,hospital
+1,Linda,61,M,Migraine,Triptans,2025-05-07,2025-06-16,City Care
+2,Vanessa,62,F,Hypertension,Beta blockers,2025-05-24,2025-06-13,Vijaya Hospital
+3,Karen,18,F,Cardiac Arrest,Defibrillator,2025-05-06,2025-06-04,Green Life
+4,Tammy,42,M,Diabetes,Insulin,2025-05-10,2025-05-17,Green Life
+5,Courtney,76,F,Migraine,Triptans,2025-05-15,2025-06-11,Global Hospital
+6,Kenneth,53,M,Migraine,Triptans,2025-05-07,2025-06-06,Green Life
+7,Garrett,80,F,Cardiac Arrest,Defibrillator,2025-04-23,2025-04-23,City Care
+8,Jacob,45,M,Covid-19,Antivirals,2025-06-03,2025-06-21,City Care
+9,Elizabeth,42,F,Arthritis,Painkillers,2025-04-25,2025-06-13,City Care
+10,James,34,F,Cardiac Arrest,Defibrillator,2025-04-27,2025-05-01,City Care
+11,Barbara,30,M,Migraine,Triptans,2025-04-25,2025-05-10,City Care
+12,Kevin,62,M,Covid-19,Antivirals,2025-04-29,2025-06-11,City Care
+13,Jesse,18,M,Hypertension,Beta blockers,2025-05-06,2025-06-03,City Care
+14,Kelly,30,M,Asthma,Inhaler,2025-04-17,2025-05-14,Green Life
+15,Amy,71,F,Hypertension,Beta blockers,2025-04-30,2025-05-25,Apollo
+16,Stephanie,68,M,Covid-19,Antivirals,2025-04-17,2025-04-25,Global Hospital
+17,Alicia,61,M,Migraine,Triptans,2025-05-24,2025-06-09,Global Hospital
+18,Kevin,67,F,Asthma,Inhaler,2025-05-21,2025-06-22,Apollo
+19,Abigail,49,F,Arthritis,Painkillers,2025-05-01,2025-06-09,Global Hospital
+20,Crystal,53,F,Arthritis,Painkillers,2025-06-02,2025-06-07,Vijaya Hospital
+21,Emily,27,M,Cardiac Arrest,Defibrillator,2025-05-24,2025-05-24,City Care
+22,Dakota,44,M,Cardiac Arrest,Defibrillator,2025-04-29,2025-05-25,Green Life
+23,Morgan,45,M,Asthma,Inhaler,2025-05-13,2025-06-13,Apollo
+24,Michael,38,M,Hypertension,Beta blockers,2025-05-02,2025-06-01,Vijaya Hospital
+25,Steven,55,M,Asthma,Inhaler,2025-05-04,2025-05-18,Vijaya Hospital
+26,Dana,26,M,Cardiac Arrest,Defibrillator,2025-05-20,2025-05-27,City Care
+27,James,20,M,Diabetes,Insulin,2025-04-26,2025-06-04,Global Hospital
+28,John,34,F,Cardiac Arrest,Defibrillator,2025-05-16,2025-06-08,Apollo
+29,Ashley,27,F,Cardiac Arrest,Defibrillator,2025-04-25,2025-06-11,City Care
+30,Edward,51,M,Diabetes,Insulin,2025-05-29,2025-06-05,City Care
+31,Aaron,32,F,Asthma,Inhaler,2025-06-01,2025-06-04,Vijaya Hospital
+32,April,63,F,Hypertension,Beta blockers,2025-06-02,2025-06-13,Apollo
+33,Douglas,29,F,Migraine,Triptans,2025-05-29,2025-06-18,Vijaya Hospital
+34,Jim,66,M,Asthma,Inhaler,2025-04-28,2025-05-28,Apollo
+35,Jasmine,49,F,Arthritis,Painkillers,2025-05-28,2025-06-18,City Care
+36,Vanessa,46,M,Hypertension,Beta blockers,2025-06-01,2025-06-15,Green Life
+37,Anthony,80,M,Migraine,Triptans,2025-04-19,2025-05-31,Green Life
+38,Deborah,53,F,Covid-19,Antivirals,2025-06-04,2025-06-12,Vijaya Hospital
+39,Corey,60,F,Covid-19,Antivirals,2025-06-04,2025-06-24,Global Hospital
+40,Julie,49,F,Asthma,Inhaler,2025-04-20,2025-06-09,Green Life
+41,Adrian,61,M,Asthma,Inhaler,2025-05-01,2025-06-06,Green Life
+42,Marcus,68,F,Arthritis,Painkillers,2025-05-26,2025-06-02,City Care
+43,Misty,19,M,Covid-19,Antivirals,2025-04-19,2025-06-09,Global Hospital
+44,Jason,30,M,Diabetes,Insulin,2025-05-18,2025-05-20,Green Life
+45,Melissa,28,F,Hypertension,Beta blockers,2025-05-23,2025-05-25,Vijaya Hospital
+46,Michael,48,M,Asthma,Inhaler,2025-04-28,2025-05-12,Global Hospital
+47,Brianna,59,F,Diabetes,Insulin,2025-05-02,2025-05-15,Apollo
+48,Brian,66,F,Asthma,Inhaler,2025-05-11,2025-06-08,Apollo
+49,Amy,31,M,Arthritis,Painkillers,2025-05-04,2025-05-06,Apollo
+50,Madeline,55,M,Hypertension,Beta blockers,2025-05-19,2025-06-07,City Care
+51,John,34,F,Arthritis,Painkillers,2025-05-25,2025-06-19,Global Hospital
+52,Manuel,69,M,Cardiac Arrest,Defibrillator,2025-05-21,2025-06-20,Apollo
+53,Dakota,47,M,Covid-19,Antivirals,2025-05-11,2025-05-25,Global Hospital
+54,John,63,F,Migraine,Triptans,2025-05-23,2025-06-16,Vijaya Hospital
+55,Debra,19,F,Covid-19,Antivirals,2025-04-28,2025-05-19,City Care
+56,Alexander,49,F,Arthritis,Painkillers,2025-05-08,2025-05-19,Apollo
+57,Ana,70,M,Covid-19,Antivirals,2025-04-18,2025-04-22,Vijaya Hospital
+58,David,73,M,Hypertension,Beta blockers,2025-04-26,2025-05-20,City Care
+59,Adam,62,F,Covid-19,Antivirals,2025-05-14,2025-06-07,Green Life
+60,Melissa,47,M,Migraine,Triptans,2025-05-22,2025-06-10,Vijaya Hospital
+61,Jennifer,76,M,Arthritis,Painkillers,2025-05-29,2025-06-04,Apollo
+62,Sandra,51,F,Asthma,Inhaler,2025-05-11,2025-05-25,Apollo
+63,Theodore,39,F,Hypertension,Beta blockers,2025-04-27,2025-05-29,Vijaya Hospital
+64,Tammy,27,M,Diabetes,Insulin,2025-05-31,2025-06-21,Vijaya Hospital
+65,Dean,42,M,Arthritis,Painkillers,2025-05-26,2025-06-17,Green Life
+66,Tammie,61,M,Cardiac Arrest,Defibrillator,2025-05-09,2025-05-11,Green Life
+67,Joseph,33,M,Diabetes,Insulin,2025-05-30,2025-06-07,Green Life
+68,Dakota,58,M,Migraine,Triptans,2025-05-16,2025-05-18,Vijaya Hospital
+69,Stephanie,72,F,Asthma,Inhaler,2025-05-21,2025-06-14,Green Life
+70,Christopher,68,F,Covid-19,Antivirals,2025-05-26,2025-06-16,City Care
+71,Mary,70,M,Cardiac Arrest,Defibrillator,2025-04-21,2025-06-12,Vijaya Hospital
+72,Alan,60,F,Covid-19,Antivirals,2025-06-03,2025-06-24,City Care
+73,Tammy,78,F,Diabetes,Insulin,2025-04-29,2025-05-13,Global Hospital
+74,Nicholas,73,F,Asthma,Inhaler,2025-05-08,2025-05-20,Apollo
+75,Adam,40,F,Migraine,Triptans,2025-05-12,2025-06-04,Global Hospital
+76,Anna,55,M,Diabetes,Insulin,2025-05-16,2025-05-29,Green Life
+77,Alicia,20,F,Migraine,Triptans,2025-04-18,2025-06-18,Green Life
+78,Nathaniel,79,M,Cardiac Arrest,Defibrillator,2025-06-04,2025-06-08,Apollo
+79,Samantha,67,F,Covid-19,Antivirals,2025-05-09,2025-06-01,Vijaya Hospital
+80,Adam,38,F,Migraine,Triptans,2025-04-17,2025-04-29,Global Hospital
+81,Christopher,76,F,Covid-19,Antivirals,2025-05-06,2025-06-14,Vijaya Hospital
+82,Gregory,30,F,Migraine,Triptans,2025-05-19,2025-05-24,City Care
+83,Jill,37,M,Arthritis,Painkillers,2025-05-26,2025-06-12,City Care
+84,Marcus,78,F,Hypertension,Beta blockers,2025-04-24,2025-05-12,Apollo
+85,Michael,46,F,Asthma,Inhaler,2025-04-18,2025-06-10,Green Life
+86,Hector,74,M,Arthritis,Painkillers,2025-05-25,2025-05-25,Vijaya Hospital
+87,Allison,71,M,Migraine,Triptans,2025-05-07,2025-06-12,Vijaya Hospital
+88,Thomas,51,F,Asthma,Inhaler,2025-05-26,2025-06-01,City Care
+89,Elizabeth,67,F,Asthma,Inhaler,2025-05-12,2025-06-18,Global Hospital
+90,Sara,79,F,Asthma,Inhaler,2025-05-24,2025-06-13,Green Life
+91,Eric,56,F,Arthritis,Painkillers,2025-04-28,2025-06-03,City Care
+92,William,45,M,Cardiac Arrest,Defibrillator,2025-05-07,2025-06-20,Global Hospital
+93,Jennifer,74,M,Cardiac Arrest,Defibrillator,2025-04-28,2025-06-13,Vijaya Hospital
+94,Courtney,75,M,Covid-19,Antivirals,2025-05-07,2025-06-22,City Care
+95,Melissa,18,F,Cardiac Arrest,Defibrillator,2025-05-08,2025-06-21,Green Life
+96,James,61,M,Covid-19,Antivirals,2025-04-25,2025-05-12,City Care
+97,Jamie,20,M,Covid-19,Antivirals,2025-05-29,2025-06-24,City Care
+98,Steven,78,F,Cardiac Arrest,Defibrillator,2025-05-15,2025-06-02,Apollo
+99,Cindy,78,M,Diabetes,Insulin,2025-04-26,2025-04-26,Green Life
+100,Timothy,65,F,Migraine,Triptans,2025-05-02,2025-06-21,Apollo
